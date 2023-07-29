@@ -1,0 +1,6 @@
+Sat Jul 29 23:52:01 2023
+Status => success; input:"12.4 + 123"; output:"135.400000"
+
+Sat Jul 29 23:52:08 2023
+Status => success; input:"34 - 12"; output:"22.000000"
+
